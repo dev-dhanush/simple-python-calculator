@@ -18,8 +18,8 @@ def divide_numbers(a, b):
 
 if __name__ == "__main__":
     # Static values
-    x = 10
-    y = 5
+    x = 400
+    y = 10
 
     print("Simple Calculator with Static Values\n")
 
