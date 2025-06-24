@@ -20,7 +20,7 @@ def divide_numbers(a, b):
 
 if __name__ == "__main__":
     # Static values
-    x = 600
+    x = 700
     y = 20000
 
     print("Simple Calculator with Static Values\n")
